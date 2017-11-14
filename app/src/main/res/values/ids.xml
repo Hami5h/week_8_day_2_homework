@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <item name="wordCount" type="id">Words:</item>
+    <item name="action_settings" type="id">Settings</item>
+    <item name="action_about" type="id">About</item>
 </resources>
