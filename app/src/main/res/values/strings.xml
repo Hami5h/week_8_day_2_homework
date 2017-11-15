@@ -4,4 +4,5 @@
     <string name="wordcount">Count Words</string>
     <string name="Settings">Settings</string>
     <string name="About">About</string>
+    <string name="AboutMeText">Hi I am an Android App developed by Hamish</string>
 </resources>
